@@ -1,0 +1,5 @@
+flask
+simplejson
+pywhmcs7
+uwsgi
+uwsgitop
